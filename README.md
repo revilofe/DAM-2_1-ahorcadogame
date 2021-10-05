@@ -1,7 +1,11 @@
-# Ejercicios 1.1
-## Creación de un Generador de Contraseñas
-Todos usamos contraseñas a diario; para mantener las cuentas seguras, tenemos que hacer que nuestra contraseña sea lo suficientemente difícil como para que nadie pueda adivinarla.
-Un generador de contraseñas es un programa que genera contraseñas aleatorias -a partir de letras mayúsculas, minúsculas, números y símbolos de puntuación...-, lo suficientemente fuertes como para proporcionar seguridad.
+# Ejercicios 2.1
+## Creación del juego del ahorcado
+El juego del "ahorcado" es un juego de lápiz y papel, en el que el objetivo es adivinar una palabra. Luego el jugador restante deberán ir diciendo letras que les parece que puede contener la frase. Si aciertan, se escriben todas las letras coincidentes.  Si la letra no está, se resta un intento, agregando una parte al cuerpo (cabeza, brazo, etc.) hasta que queda dibujado todo el cuerpo del "ahorcado". 
+
+Gana el juego si se completa la palabra, y se pierde si se completa el número de intentos antes de completar la palabra. 
+
+
+En nuestra versión del ahorcado, no dibujaremos el cuerpo, sino que esta parte se simulará estableciendo un número de intentos, por ejemplo 5.
 
 ### ¿Qué vamos a necesitar?
 Para poder generar las contraseñas necesitamos varias cosas:
