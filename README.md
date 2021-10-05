@@ -1,4 +1,4 @@
-#Ejercicios 1.1
+# Ejercicios 1.1
 ## Creación de un Generador de Contraseñas
 Todos usamos contraseñas a diario; para mantener las cuentas seguras, tenemos que hacer que nuestra contraseña sea lo suficientemente difícil como para que nadie pueda adivinarla.
 Un generador de contraseñas es un programa que genera contraseñas aleatorias -a partir de letras mayúsculas, minúsculas, números y símbolos de puntuación...-, lo suficientemente fuertes como para proporcionar seguridad.
